@@ -8,7 +8,7 @@ The app also saves tasks in **localStorage** so they persist after a page refres
 
 ## 🔗 Live Demo
 
-🌐 [Click here to view the live app](https://todo-app-71.netlify.app/)
+🌐 [Click here to view the live app](https://todo-list-738.netlify.app/)
 
 ---
 
